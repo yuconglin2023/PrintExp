@@ -7,7 +7,7 @@ This is **the first official release**, and if you want to download the app, you
 https://github.com/yuconglin2023/YCL-Presentator/blob/main/YCL%20Presentator_setup.exe
 
 **_App ScreenShots_**
-![splashpage](splashpage.png)
-![startpage](startpage.png)
-![mainframe](mainframe.png)
-![ratingdialog](ratingdialog.png)
+![1](1.png)
+![2](2.png)
+![3](3.png)
+![4](4.png)
