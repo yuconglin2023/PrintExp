@@ -1,6 +1,6 @@
 # Parameter-Launcher
 
-**Parameter-Launcher** is a practical application that provides knowledge about the currency of English-speaking countries. Through content introduction and interactive experience, users will have a deeper cultural impression of English-speaking countries. It is aimed at all groups of students and teachers.
+**Parameter-Launcher** is used to copy a copy of the program in the path where the program is located, and to set up image hijacking in the registry, so that when starting the original program, it is transferred through the core launcher to attach our own boot parameters. It provides a unified and efficient shortcut startup management platform!
 
 This is **the first official release**, and if you want to download the app, you can get the link in Releases and Packages on the right side of the page or just use the download link provided below.
 
