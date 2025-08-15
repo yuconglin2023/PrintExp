@@ -9,6 +9,7 @@ This is **the first official release**, and if you want to download the app, you
 **_App ScreenShots_**
 ![1](1.png)
 ![2](2.png)
+![7](7.png)
 ![3](3.png)
 ![4](4.png)
 ![5](5.png)
