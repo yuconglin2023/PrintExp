@@ -1,6 +1,6 @@
-# Parameter-Launcher
+# PrintExp
 
-**Parameter-Launcher** is used to copy a copy of the program in the path where the program is located, and to set up image hijacking in the registry, so that when starting the original program, it is transferred through the core launcher to attach our own boot parameters. It provides a unified and efficient shortcut startup management platform!
+**PrintExp** This is an operating app for a dedicated printing device. It brings users a more advanced and simple operation interface, and can freely adjust the printing parameters and equipment parameters of the printer to meet the diversified needs of users.
 
 This is **the first official release**, and if you want to download the app, you can get the link in Releases and Packages on the right side of the page or just use the download link provided below.
 
@@ -11,3 +11,6 @@ This is **the first official release**, and if you want to download the app, you
 ![2](2.png)
 ![3](3.png)
 ![4](4.png)
+![5](5.png)
+![6](6.png)
+![7](7.png)
